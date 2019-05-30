@@ -1,4 +1,12 @@
-.title{
-    background-color: black;
+#rad{
+    position: absolute;
     color:white;
+    font-size: 20vw;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+#small{
+    color: grey;
+    text-align: center;
+    font-size: 8vw;
 }
